@@ -1,0 +1,12 @@
+/* #fruits-title{
+    color: blue;
+}
+.important-fruit{
+    color: red;
+} */
+.text-center{
+    text-align: center;
+}
+#car-container .important-fruit{
+    list-style: none;
+}
